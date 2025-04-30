@@ -1,0 +1,22 @@
+{
+  "name": "base-repository",
+  "version": "1.0.0",
+  "description": "A base repository package using Prisma.",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "prisma",
+    "repository",
+    "base"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "bytenode": "^1.5.7"
+  }
+}
